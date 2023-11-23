@@ -101,6 +101,7 @@ class Controller_Game:
                 print('you are loser')
 
             print()
+            print()
 
             game = input('if you want to continue the game, please input yes: ').lower()
 
